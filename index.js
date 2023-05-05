@@ -14,6 +14,11 @@ app.get('/chef', (req, res)=>{
     res.send(chef);
 });
 
+app.get('/chef/:id', (req, res)=>{
+    const id = req.params.id;
+    const filterChef= chef.filter(chef=>chef.id===  +id)
+    res.send(filterChef)
+})
 app.listen(port, ()=>{
     console.log(`chef api is running on port: ${port}`)
 })

@@ -1,50 +1,242 @@
 [
     {  
         "id": 1,
-        "Chef_Picture": "https://img.freepik.com/free-photo/portrait-male-chef-kitchen_23-2149646279.jpg?w=360&t=st=1683091060~exp=1683091660~hmac=0aa3d7a4eafa80397d2b99d4d25ab61013c35deda7fc17b85982c20dca7ad027",
-        "Chef_Name": "John Smith",
-        "Years_of_experience": 10,
+        "Chef_Picture": "https://www.observerbd.com/2021/07/16/observerbd.com_1626457404.jpg",
+        "Chef_Name": "Ahmed Hossain",
+        "Years_of_experience": 20,
         "Numbers_of_recipes": 150,
-        "Likes": 5000
+        "Likes": 5000,
+        "bio": "Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010.",
+        "recipes_name1" : "panta ilissh",
+        "ingredients1": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating": "9/10",
+
+        "recipes_name2" : "kacchi biriyani",
+        "ingredients2": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method2": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating2": "10/10",
+        "recipes_name3" : "Jal fry",
+        "ingredients3": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method3": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating3": "9.5/10"
       },
       {
         "id": 2,
-        "Chef_Picture": "https://img.freepik.com/free-photo/portrait-male-chef-kitchen_23-2149646279.jpg?w=360&t=st=1683091060~exp=1683091660~hmac=0aa3d7a4eafa80397d2b99d4d25ab61013c35deda7fc17b85982c20dca7ad027",
-        "Chef_Name": "John Smith",
-        "Years_of_experience": 10,
-        "Numbers_of_recipes": 150,
-        "Likes": 5000
+        "Chef_Picture": "https://img.freepik.com/free-photo/successful-happy-eldery-chef-crossed-arms-portrait-white-wall-isolated_496169-2632.jpg?size=626&ext=jpg&uid=R101438997&ga=GA1.2.228412914.1672594624&semt=ais",
+        "Chef_Name": "Fakhruddin Ali",
+        "Years_of_experience": 15,
+        "Numbers_of_recipes": 120,
+        "Likes": 4700,
+        "bio": "Since 1966, Haji Fakruddin had challenged outrageous financial hardships since his move to Bangladesh. He amid a stretch to squeeze out a work, he was acquainted with Muslim Miah, a culinary specialist to the Nawabs of India..",
+        "recipes_name1" : "panta ilissh",
+        "ingredients1": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating": "9/10",
+
+        "recipes_name2" : "kacchi biriyani",
+        "ingredients2": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method2": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating2": "10/10",
+        "recipes_name3" : "Jal fry",
+        "ingredients3": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method3": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating3": "9.5/10"
       },
       {
         "id": 3,
         "Chef_Picture": "https://img.freepik.com/free-photo/portrait-male-chef-kitchen_23-2149646279.jpg?w=360&t=st=1683091060~exp=1683091660~hmac=0aa3d7a4eafa80397d2b99d4d25ab61013c35deda7fc17b85982c20dca7ad027",
-        "Chef_Name": "John Smith",
+        "Chef_Name": "Chef Kabir",
         "Years_of_experience": 10,
         "Numbers_of_recipes": 150,
-        "Likes": 5000
+        "Likes": 5000,
+        "bio": "Siddiqua Kabir (May 7, 1931 – January 31, 2012) was a Bangladeshi nutritionist, scholastic, cookbook writer andcooking show TV have. A teacher, Kabir facilitated and visitor featured in various network shows featuringBangladeshi food, including Siddiqua Kabir’s Recipe on NTV Bangla . Kabir got honors from the culinary and media businesses, including the Sheltech Award, which was given to her in 2009. Her countless contributions for Bangladesh food, she is ranked at fourth position among top 10 chefs in Bangladesh.",
+        "recipes_name1" : "panta ilissh",
+        "ingredients1": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating": "9/10",
+
+        "recipes_name2" : "kacchi biriyani",
+        "ingredients2": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method2": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating2": "10/10",
+        "recipes_name3" : "Jal fry",
+        "ingredients3": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method3": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating3": "9.5/10"
       },
       {
         "id": 4,
-        "Chef_Picture": "https://img.freepik.com/free-photo/portrait-male-chef-kitchen_23-2149646279.jpg?w=360&t=st=1683091060~exp=1683091660~hmac=0aa3d7a4eafa80397d2b99d4d25ab61013c35deda7fc17b85982c20dca7ad027",
-        "Chef_Name": "John Smith",
+        "Chef_Picture": "https://img.freepik.com/free-photo/portrait-chef-with-arms-crossed_23-2148006335.jpg?w=360&t=st=1683207645~exp=1683208245~hmac=d9cc9fddd3e04d8349b6a5e4c73b8c0dbf19e4cf808b0a984c16be6ceca36d31",
+        "Chef_Name": "Asad Latif",
         "Years_of_experience": 10,
         "Numbers_of_recipes": 150,
-        "Likes": 5000
+        "Likes": 5000,
+        "bio": "Gourmet expert Asad is a masterful Chef from Pakistan who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh, although currently he is working in Pakistan.  Not just he educates the most delightful dishes from Bangladesh. He likewise entertains gatherings of people with prompt answers for cooking tragedies. ",
+        "recipes_name1" : "panta ilissh",
+        "ingredients1": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating": "9/10",
+
+        "recipes_name2" : "kacchi biriyani",
+        "ingredients2": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method2": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating2": "10/10",
+        "recipes_name3" : "Jal fry",
+        "ingredients3": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method3": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating3": "9.5/10"
       },
       {
         "id": 5,
-        "Chef_Picture": "https://img.freepik.com/free-photo/portrait-male-chef-kitchen_23-2149646279.jpg?w=360&t=st=1683091060~exp=1683091660~hmac=0aa3d7a4eafa80397d2b99d4d25ab61013c35deda7fc17b85982c20dca7ad027",
-        "Chef_Name": "John Smith",
+        "Chef_Picture": "https://img.freepik.com/free-photo/mid-shot-pizza-chef-posing_23-2148785710.jpg?w=360&t=st=1683207534~exp=1683208134~hmac=5e0ec7d890cff175d2a90ff4434cb203c6c553c51ddb4efb60aa76ebb67e1939",
+        "Chef_Name": "Chef Tony",
         "Years_of_experience": 10,
         "Numbers_of_recipes": 150,
-        "Likes": 5000
+        "Likes": 5000,
+        "bio":"Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh. He is notable around the globe for his mixed cooking, in 1998 he got to be one of the “Main 10 Chefs of the World” and in 1992 he turned into the “Culinary expert of The Year” in Pacific Papuanew Guinea. Culinary specialist Tony set up a kitchen extend in portability with his accomplice, which is serving nourishment for some enormous occasions. So he require an adaptable focal kitchen plan and loads of dispensable silverware supply. Concerning us, we have finished a wedding eatery extend in Romania years prior, that is likewise an abnormal state eatery with certain scale. ",
+        "recipes_name1" : "panta ilissh",
+        "ingredients1": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating": "9/10",
+
+        "recipes_name2" : "kacchi biriyani",
+        "ingredients2": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method2": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating2": "10/10",
+        "recipes_name3" : "Jal fry",
+        "ingredients3": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method3": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating3": "9.5/10"
       },
       {
         "id": 6,
-        "Chef_Picture": "https://img.freepik.com/free-photo/portrait-male-chef-kitchen_23-2149646279.jpg?w=360&t=st=1683091060~exp=1683091660~hmac=0aa3d7a4eafa80397d2b99d4d25ab61013c35deda7fc17b85982c20dca7ad027",
-        "Chef_Name": "John Smith",
+        "Chef_Picture": "https://img.freepik.com/premium-photo/portrait-young-handsome-indian-man-chef-smiling_251136-32078.jpg?size=626&ext=jpg&uid=R101438997&ga=GA1.2.228412914.1672594624&semt=ais",
+        "Chef_Name": "Manik Miah",
         "Years_of_experience": 10,
         "Numbers_of_recipes": 150,
-        "Likes": 5000
+        "Likes": 5000,
+        "bio": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh.",
+        "recipes_name1" : "panta ilissh",
+        "ingredients1": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating": "9/10",
+
+        "recipes_name2" : "kacchi biriyani",
+        "ingredients2": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method2": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating2": "10/10",
+        "recipes_name3" : "Jal fry",
+        "ingredients3": {
+          "one": "Ilish Steaks - 5-6 pieces",
+          "two": "Turmeric - 1/2 tsp.",
+          "three": "Salt - 1 tsp, as needed.",
+          "four": "Mustard Oil - 2 tbsp",
+          "five": "Onions - 1/2 cup, sliced."
+        },
+        "cooking_method3": "Coat the fish pieces in turmeric and salt. In a skillet, heat mustard oil over medium-high heat until it starts to smoke. Add the fish pieces carefully and fry on each side until it is crispy and golden-brown.",
+        "rating3": "9.5/10"
       }      
 ]
